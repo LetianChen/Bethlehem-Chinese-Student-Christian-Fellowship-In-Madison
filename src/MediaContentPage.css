@@ -1,0 +1,37 @@
+.pageLayout {
+    background: whitesmoke;
+    height: 100%;
+    padding: 1em;
+    overflow-y: scroll;
+    -ms-overflow-style: none;
+}
+
+.mediaLayout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1em;
+}
+
+.pageLayout::-webkit-scrollbar {
+    display: none;
+}
+
+.mediaWrapper {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.mediaWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.docsWrapper iframe {
+    margin-top: 1em;
+    width: 100%;
+    height: 43vh;
+}

@@ -1,0 +1,33 @@
+.oneTalk {
+    text-align: left;
+}
+
+.oneTalk:hover {
+    transform: scaleY(1.05);
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+a:hover {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.talkHeader {
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.date,.tags,.desc {
+    font-size: 0.9em;
+}

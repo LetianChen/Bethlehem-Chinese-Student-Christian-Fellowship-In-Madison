@@ -1,0 +1,14 @@
+.votd {
+    text-align: center;
+    color: whitesmoke;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.votdVerse {
+    font-size: 1.5em;
+}
+
+.votdId {
+    font-size: 0.8em;
+}

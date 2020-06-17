@@ -1,0 +1,63 @@
+.biblePage {
+    padding-top: 1em;
+    background: whitesmoke;
+    height: 100%;
+    overflow: scroll;
+    -ms-overflow-style: none;
+}
+
+.biblePage::-webkit-scrollbar {
+    display: none;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.bibleBookCard {
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+
+.bibleBookCard:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    border-color: blue;
+}
+
+.bible {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2em;
+}
+
+.bibleGrid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(140px, 1fr));
+    gap: 1em;
+    margin: 0.5em;
+}
+
+.chapterNav {
+    text-align: left;
+    padding-left: 1em;
+    margin-bottom: 1em;;
+}
+
+.chapterNav h3,select {
+    display: inline;
+}    
+
+.chapterNav select {
+    padding-left: 1em;
+    margin-left: 0.5em;
+    font-size: 1.5em;
+}
+
+.bibleVerses {
+    text-align: left;
+}
+
