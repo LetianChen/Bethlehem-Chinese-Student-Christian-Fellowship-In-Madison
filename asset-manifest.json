@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9a9e4e54.chunk.css",
+    "main.js": "/static/js/main.5751d022.chunk.js",
+    "main.js.map": "/static/js/main.5751d022.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.728c489b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.728c489b.js.map",
+    "static/js/2.6c334d58.chunk.js": "/static/js/2.6c334d58.chunk.js",
+    "static/js/2.6c334d58.chunk.js.map": "/static/js/2.6c334d58.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d57acd35da68640814006ecb55504558.js": "/precache-manifest.d57acd35da68640814006ecb55504558.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9a9e4e54.chunk.css.map": "/static/css/main.9a9e4e54.chunk.css.map",
+    "static/js/2.6c334d58.chunk.js.LICENSE.txt": "/static/js/2.6c334d58.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/background1.18cf81c4.jpg",
+    "static/media/bible.jpeg": "/static/media/bible.600cf6fd.jpeg",
+    "static/media/study.jpeg": "/static/media/study.d27252e0.jpeg",
+    "static/media/testimony.jpeg": "/static/media/testimony.77cf02bd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.728c489b.js",
+    "static/js/2.6c334d58.chunk.js",
+    "static/css/main.9a9e4e54.chunk.css",
+    "static/js/main.5751d022.chunk.js"
+  ]
+}
