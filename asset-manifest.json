@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/css/main.da481134.chunk.css",
-    "main.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/main.877c47b6.chunk.js",
-    "main.js.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/main.877c47b6.chunk.js.map",
+    "main.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/main.c5084bff.chunk.js",
+    "main.js.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/main.c5084bff.chunk.js.map",
     "runtime-main.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/runtime-main.9c22df1f.js",
     "runtime-main.js.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/runtime-main.9c22df1f.js.map",
     "static/js/2.6c334d58.chunk.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/2.6c334d58.chunk.js",
     "static/js/2.6c334d58.chunk.js.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/2.6c334d58.chunk.js.map",
     "index.html": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/index.html",
-    "precache-manifest.9f844f310a6d47067b7a2a1cdaa099d8.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/precache-manifest.9f844f310a6d47067b7a2a1cdaa099d8.js",
+    "precache-manifest.aaf600e862373dcbb9370e7a61e28ad2.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/precache-manifest.aaf600e862373dcbb9370e7a61e28ad2.js",
     "service-worker.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/service-worker.js",
     "static/css/main.da481134.chunk.css.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/css/main.da481134.chunk.css.map",
     "static/js/2.6c334d58.chunk.js.LICENSE.txt": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/2.6c334d58.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.9c22df1f.js",
     "static/js/2.6c334d58.chunk.js",
     "static/css/main.da481134.chunk.css",
-    "static/js/main.877c47b6.chunk.js"
+    "static/js/main.c5084bff.chunk.js"
   ]
 }
