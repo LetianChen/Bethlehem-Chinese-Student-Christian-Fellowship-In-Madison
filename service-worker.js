@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/precache-manifest.75f1ae9f89b83cc3641e64ea6c3446d1.js"
+  "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/precache-manifest.9ec1b5acc6754ac8dff3c8a5801ab685.js"
 );
 
 self.addEventListener('message', (event) => {

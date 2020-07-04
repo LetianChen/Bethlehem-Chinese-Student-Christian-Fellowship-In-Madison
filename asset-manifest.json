@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/css/main.89206d03.chunk.css",
-    "main.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/main.a56efd8d.chunk.js",
-    "main.js.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/main.a56efd8d.chunk.js.map",
+    "main.css": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/css/main.0fa71592.chunk.css",
+    "main.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/main.4339b086.chunk.js",
+    "main.js.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/main.4339b086.chunk.js.map",
     "runtime-main.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/runtime-main.9c22df1f.js",
     "runtime-main.js.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/runtime-main.9c22df1f.js.map",
-    "static/js/2.b7e46370.chunk.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/2.b7e46370.chunk.js",
-    "static/js/2.b7e46370.chunk.js.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/2.b7e46370.chunk.js.map",
+    "static/js/2.77b822c7.chunk.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/2.77b822c7.chunk.js",
+    "static/js/2.77b822c7.chunk.js.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/2.77b822c7.chunk.js.map",
     "index.html": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/index.html",
-    "precache-manifest.75f1ae9f89b83cc3641e64ea6c3446d1.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/precache-manifest.75f1ae9f89b83cc3641e64ea6c3446d1.js",
+    "precache-manifest.9ec1b5acc6754ac8dff3c8a5801ab685.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/precache-manifest.9ec1b5acc6754ac8dff3c8a5801ab685.js",
     "service-worker.js": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/service-worker.js",
-    "static/css/main.89206d03.chunk.css.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/css/main.89206d03.chunk.css.map",
-    "static/js/2.b7e46370.chunk.js.LICENSE.txt": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/2.b7e46370.chunk.js.LICENSE.txt",
+    "static/css/main.0fa71592.chunk.css.map": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/css/main.0fa71592.chunk.css.map",
+    "static/js/2.77b822c7.chunk.js.LICENSE.txt": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/js/2.77b822c7.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/media/background1.18cf81c4.jpg",
     "static/media/bible.jpeg": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/media/bible.600cf6fd.jpeg",
     "static/media/study.jpeg": "/Bethlehem-Chinese-Student-Christian-Fellowship-In-Madison/static/media/study.d27252e0.jpeg",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9c22df1f.js",
-    "static/js/2.b7e46370.chunk.js",
-    "static/css/main.89206d03.chunk.css",
-    "static/js/main.a56efd8d.chunk.js"
+    "static/js/2.77b822c7.chunk.js",
+    "static/css/main.0fa71592.chunk.css",
+    "static/js/main.4339b086.chunk.js"
   ]
 }
